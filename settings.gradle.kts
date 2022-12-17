@@ -1,0 +1,1 @@
+rootProject.name = "com.ryu236.todo-ktor"
