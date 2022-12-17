@@ -4,7 +4,6 @@ build
 .idea/*
 !.idea/runConfigurations
 !.idea/runConfigurations/*
-!.idea/vcs.xml
 !.idea/dictionaries
 !.idea/dictionaries/*
 !.idea/copyright
@@ -34,6 +33,8 @@ bin/
 .konan
 
 .DS_Store
+*.class
+*.jar
 
 hs_err_pid*.log
 

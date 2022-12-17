@@ -1,2 +1,0 @@
-¤2022-12-17 23:11:03.696 [DefaultDispatcher-worker-1 @call-context#2] INFO  ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
-|2022-12-17 23:11:03.700 [DefaultDispatcher-worker-1 @call-context#2] INFO  ktor.test - Application started in 0.01 seconds.
